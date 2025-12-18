@@ -11,7 +11,7 @@
   "parameters": {
     "keyvaultName": {
       "type": "string",
-      "defaultValue": "[12345]"
+      "defaultValue": "abcdeabcde"
     },
     "webAppName": {
       "type": "string",
@@ -341,5 +341,6 @@
     }
   }
 }
+
 
 
